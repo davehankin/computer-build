@@ -21,13 +21,13 @@
     * CPU power and CPU fan
     * CPU cooler (?)
     * PCIe riser card
-7. Connect wifi antenna
+7. Connect ethernet cable, wifi doesn't work until driver is updated (see below)
 8. Press power button: message about New CPU installed: “Press Y to reset fTPM…” press Y
-9. Switch off, plug Windows USB key into USB slot and switch back on
-10. Windows install:
+9. Switch off, plug Windows USB key into USB slot and switch back on109. Windows install:
     * Don’t need a product key (get one later, see below)
     * Select customized install, US-International keyboard layout
-11. Enable XMP in BIOS for RAM speed
+10. Enable XMP in BIOS for RAM speed
+11. Check motherboard rev on sticker on motherboard box. So far they've all been rev 1.1. Download and install AMD Wifi Driver from Gigabyte website (Google Gigabyte B550i drivers). Connect wifi antenna.
 12. Install NZXT CAM software for monitoring temperatures
 13. Download and install Cinebench, run multicore test and monitor temperature
 14. Get Windows key:

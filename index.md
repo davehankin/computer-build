@@ -7,7 +7,7 @@
 * **SSD:** Samsung SSD 980 NVMe M.2, 1TB
 
 ## Notes
-1. Install CPU in mobo
+1. Install CPU in mobo (note the arrow on the corner of the CPU matches up with arrow on mobo)
 2. Install RAM
 3. SSD goes under heat sink on top of mobo. Note that there is another M2 slot on underside of mobo, don’t use that one.
 4. Open case. Swap CPU adapter, Intel to AMD

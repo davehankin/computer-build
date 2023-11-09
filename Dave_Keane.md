@@ -1,4 +1,5 @@
 # Computer build
+First Pyseas computers, one for Keane and 2 for Dave. Built in Jan 2022.
 ## Components
 * **Case:** NZXT H1 V2
 * **Mobo:** Gigabyte B550i Aorus Pro AX Rev 1.1

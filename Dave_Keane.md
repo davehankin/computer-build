@@ -1,7 +1,7 @@
 # Computer build
 ## Components
 * **Case:** NZXT H1 V2
-* **Mobo:** Gigabyte B550i Aorus Pro AX
+* **Mobo:** Gigabyte B550i Aorus Pro AX Rev 1.1
 * **CPU:** Ryzen 7 5700g
 * **RAM:** Corsair Vengeance LPX DDR4 3200MHz, 2x8GB
 * **SSD:** Samsung SSD 980 NVMe M.2, 1TB
@@ -23,7 +23,7 @@
     * PCIe riser card
 7. Connect ethernet cable, wifi doesn't work until driver is updated (see below)
 8. Press power button: message about New CPU installed: “Press Y to reset fTPM…” press Y
-9. Switch off, plug Windows USB key into USB slot and switch back on109. Windows install:
+9. Switch off, plug Windows USB key into USB slot and switch back on. Windows install:
     * Don’t need a product key (get one later, see below)
     * Select customized install, US-International keyboard layout
 10. Enable XMP in BIOS for RAM speed

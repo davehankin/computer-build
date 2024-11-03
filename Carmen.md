@@ -17,6 +17,6 @@ Build was pretty much same as for the first 3 computers, except:
     * Download driver on another computer and put it on USB
     * Make sure to get correct driver revision, based on Rev number on mobo box (1.3 in this case)
     * Install on the new computer using command prompt (SHIFT +F10)
-    * Command is "C:\start D:\driver_filename.exe"
+    * Command is "C:\>D:\driver_filename.exe"
 
 PIN number is 309144
